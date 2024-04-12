@@ -15,7 +15,7 @@ import { accordions, portfolios, services } from "./data";
 import { PortfolioCard } from "./components/portfolio-card";
 import { Accordion } from "./components/accordion";
 import Carousel from "./components/carousel";
-import Map from "@/assets/map.svg";
+import Map from "@/assets/Map.svg";
 import DesktopCrousel from "./components/desktop-carousel";
 import RightArrow from "@/assets/icons/right-arrow";
 import { Header } from "./components/header";
