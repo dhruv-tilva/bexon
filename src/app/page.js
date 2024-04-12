@@ -70,13 +70,13 @@ export default function Home() {
               <div className="flex items-center gap-1">
                 <CheckMark className="w-5 h-5" />
                 <span className="text-[10px] lg:text-base text-secondary-paragraphLight">
-                  24/7 Online support
+                  24/7 Online Support
                 </span>
               </div>
               <div className="flex items-center gap-1 ml-6">
                 <CheckMark className="w-5 h-5" />
                 <span className="text-[10px] lg:text-base text-secondary-paragraphLight">
-                  Quick communication
+                  Quick Communication
                 </span>
               </div>
             </div>
