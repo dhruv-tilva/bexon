@@ -2,7 +2,7 @@ import Link from "next/link";
 import SunGlass from "@/assets/sunglass.svg";
 import Image from "next/image";
 import Title from "./components/title";
-import { CheckMark, DownArrow, LeftArrow } from "@/assets/icons";
+import { CheckMark, DownArrow } from "@/assets/icons";
 import Paragraph from "./components/paragraph";
 import Button from "./components/button";
 import { Video } from "./components/video";
@@ -100,7 +100,7 @@ export default function Home() {
           <DottedLine className="w-full" />
         </div>
       </div>
-      <section className=" py-16">
+      <section className="py-16">
         <div className="p-4 max-w-screen-2xl mx-auto md:grid md:grid-cols-2 md:gap-20 lg:px-8">
           <div className="md:order-2">
             <p className="text-secondary-paragraphLight text-xs">
@@ -139,7 +139,7 @@ export default function Home() {
           <DottedLine className="w-full" />
         </div>
       </section>
-      <section className=" pb-16">
+      <section className="pb-16">
         <div className="px-4 max-w-screen-2xl mx-auto lg:px-8">
           <p className="text-secondary-paragraphLight text-xs">OUR PORTFOLIO</p>
           <h4 className="uppercase font-semibold text-2xl lg:text-4xl xl:text-4xl">
@@ -181,7 +181,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className=" py-9">
+      <section className="py-9">
         <div className="px-4 max-w-screen-2xl mx-auto md:grid md:grid-cols-2 md:gap-16 xl:gap-40 lg:px-8">
           <div className="mb-7">
             <p className="text-secondary-thin text-xs">TESTIMONIAl</p>
